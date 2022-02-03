@@ -1,4 +1,4 @@
-#PCD (Pokemon Card Database) 0.5
+#PCD (Pokemon Card Database) 0.7
 
 import time
 import pickle  #Built-in module which is used for save and load programs (Not like a pickle)
@@ -10,7 +10,7 @@ input_user = ''
 print('Welcome to the PCD Command Prompt, or the Pokemon Card Database')
 print('type commands or help to get more information')
 
-while input_user != 'stop':
+while input_user != 'logout':
     input_user = input('')
     if input_user == 'add':
         message = input('<Add Pokemon card to database>')
@@ -34,7 +34,8 @@ while input_user != 'stop':
         print('save - Saves your cards to a data file in the disk')
         print('load - Loads your cards from the disk to the command prompt')
         print('searchcard - Searches for a card that you have added')
-        print('stop - Terminates the database')
+        print('logout - Terminates the database')
+        print('removecard - removes your card from the database')
         print('')
         input_user = ''
     if input_user == 'save':
@@ -58,4 +59,10 @@ while input_user != 'stop':
         else:
             print('Your card is not available in the database. Perhaps you didnt add it?')
             print('')
-       
+    if input_user == 'removecard':
+        card_remove = input('Type the card you want to remove from the database')
+        if card_remove in cards:
+            cards.remove(card_remove)
+            print('Your card has been removed from Database')
+        else:
+            print('Cannot remove card because the card isnt in the database, please write the correct name.')
