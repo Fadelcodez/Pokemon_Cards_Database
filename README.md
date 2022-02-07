@@ -1,6 +1,9 @@
 # Pokemon_Cards_Database
 
-Have you ever found some Pokemon cards from childhood, or have you just got them, are you tired of just loosing them and finding them again, well, look no further, with the POKEMON CARD DATABASE. This program can store all of your Pokemon cards to your disk, so you can never lose them again.
+Have you ever found some Pokemon cards from childhood, or have you just got them, are you tired of just loosing them and finding them again, well, look no further, with the POKEMON CARD DATABASE.
+![costume1 (1)](https://user-images.githubusercontent.com/97952297/152827437-dbf7838b-cac2-4ccf-bd46-84f6287831d9.png)
+
+This program can store all of your Pokemon cards to your disk, so you can never lose them again.
 
 # Tutorial
 First of all, you need to run the program on some IDE, like Pycharm.
