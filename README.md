@@ -1,6 +1,7 @@
 # Pokemon_Cards_Database
 
-Have you ever found some Pokemon cards from childhood, or have you just got them, are you tired of just loosing them and finding them again, well, look no further, with the POKEMON CARD DATABASE.
+Have you ever found some Pokemon cards from childhood, or have you just got them, are you tired of just losing them and finding them again, well, look no further, with the POKEMON CARD DATABASE.
+
 ![costume1](https://user-images.githubusercontent.com/97952297/152827985-c8ad3ed6-09bd-49a7-8891-869d755180bd.png)
 
 This program can store all of your Pokemon cards to your disk, so you can never lose them again.
