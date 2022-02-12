@@ -19,4 +19,6 @@ UPLOADED
 
 0.5 - Added a Save And Load system
 
-1.0 - Adding a Clear File System, and renovating the code a bit. [IN PROGRESS]
+1.0 - Adding a Clear File System, and renovating the code a bit. [CANCELLED]
+
+1.0 - Renovating the Code a bit. [IN PROGRESS]
