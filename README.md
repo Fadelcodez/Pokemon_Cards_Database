@@ -13,7 +13,7 @@ Next, just run the program
 
 and you done.
 
-You could actually look at the 'commands' command to get more commands in the command prompt
+You could type the 'commands' command to get more commands in the command prompt
 # Changelog
 UPLOADED
 
@@ -21,4 +21,4 @@ UPLOADED
 
 1.0 - Adding a Clear File System, and renovating the code a bit. [CANCELLED]
 
-1.0 - BIG UPDATE [IN PROGRESS]
+1.0 - [IN PROGRESS]
